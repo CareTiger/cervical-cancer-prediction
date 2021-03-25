@@ -9,6 +9,14 @@ verify_ssl = true
 pandas = "*"
 numpy = "*"
 sklearn = "*"
+category-encoders = "*"
+jupyter = "*"
+notebook = "*"
+matplotlib = "*"
+seaborn = "*"
+xgboost = "*"
+shap = "*"
+pdpbox = "*"
 
 [requires]
 python_version = "3.7"

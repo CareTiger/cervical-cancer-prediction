@@ -17,6 +17,7 @@ seaborn = "*"
 xgboost = "*"
 shap = "*"
 pdpbox = "*"
+imblearn = "*"
 
 [requires]
 python_version = "3.7"
